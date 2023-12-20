@@ -1,4 +1,4 @@
-package com.example.patternmvc;
+package com.example.patternmvc.util;
 
 // Acts as database or bridging btw Networking & Cloud Storage
 // this is the Model Class
